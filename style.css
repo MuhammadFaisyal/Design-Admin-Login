@@ -1,0 +1,53 @@
+body{
+	font-family: sans-serif;
+	background-image: url(https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/84366486/original/c490739223326be0ddccbf3bd1d7381ce7926fa5/do-stunning-background-videos-for-your-website.png);
+	background-size: cover;
+    background-attachment: fixed;
+}
+
+h1{
+	text-align: center;
+	font-weight: 300;
+	color: white;
+}
+
+.tulisan_login{
+	text-align: center;
+	text-transform: uppercase;
+	font-family: Courier New;
+}
+
+.kotak_login{
+	width: 350px;
+	background: white;
+	margin: 150px auto;
+	padding: 30px 20px;
+}
+
+label{
+	font-size: 11pt;
+}
+
+.form_login{
+	box-sizing : border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+}
+
+.tombol_login{
+	background: black;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+}
+
+.link{
+	color: #232323;
+	text-decoration: none;
+	font-size: 10pt;
+}
